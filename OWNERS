@@ -1,14 +1,14 @@
 approvers:
   - kosmos-robot
-  - fisherxu
+  - yuleichun-striving
   - kadisi
   - kevin-wangzefeng
   - qizha
   - sids-b
   - skdwriting
 reviewers:
-  - chendave
-  - daixiang0
+  - kosmos-robot
+  - yuleichun-striving
   - fisherxu
   - GsssC
   - kadisi
@@ -18,6 +18,6 @@ reviewers:
   - zc2638
 
 emeritus_approvers:
-  - CindyXing
-  - m1093782566
+  - kosmos-robot
+  - yuleichun-striving
   - rohitsardesai83
